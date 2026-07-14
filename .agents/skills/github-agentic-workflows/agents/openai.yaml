@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Agentic Workflows"
+  short_description: "Run scripts and safely scope workflow secrets"
+  default_prompt: "Use $github-agentic-workflows to build a compiled GitHub Agentic Workflow that runs a repository script and handles secrets safely."
