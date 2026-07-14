@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
 
-engine: copilot
+engine: codex
 
 tools:
   bash: ["cat"]
