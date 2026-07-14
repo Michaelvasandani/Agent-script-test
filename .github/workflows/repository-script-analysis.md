@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
 
-engine: copilot
+engine: codex
 
 tools:
   bash: ["python3 scripts/analyze_repository.py"]
